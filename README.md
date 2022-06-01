@@ -1,3 +1,5 @@
+[![codewars](https://www.codewars.com/users/and-buk/badges/micro?theme=light)](https://www.codewars.com/users/and-buk)
+
 ### Hi there 👋
 
 <!--
